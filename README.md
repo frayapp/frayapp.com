@@ -1,0 +1,2 @@
+# frayapp.com
+.com
